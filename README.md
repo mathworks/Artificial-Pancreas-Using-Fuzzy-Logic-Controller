@@ -5,7 +5,7 @@ This example shows how to design and optimize a fuzzy inference system (FIS) tre
 ![Image](BlockDiagramArtificialPancreasUsingFuzzyLogicExample.png)
 
 ## Setup 
-1. Clone project repository: git clone https://insidelabs-git.mathworks.com/control-apps/artificial-pancreas-using-fuzzy-logic-controller.git
+1. Clone project repository: git clone https://github.com/mathworks/Artificial-Pancreas-Using-Fuzzy-Logic-Controller.git
 2. Run example: Open and run artificialPancreasWithFISTreeControl.slx in Simulink&reg;
 
 ### MathWorks Products (http://www.mathworks.com)
