@@ -23,7 +23,7 @@ Requires MATLAB release R2022 or newer
 The license is available in the License file within this repository.
 
 ## Community Support
-[MATLAB Central](https://www.mathworks.com/matlabcentral)
+[![View Artificial Pancreas Using Fuzzy Logic Controller on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/119823-artificial-pancreas-using-fuzzy-logic-controller)
 
 
 Copyright 2022 The MathWorks, Inc.
